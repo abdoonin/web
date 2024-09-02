@@ -1,7 +1,8 @@
 {
     "name": "website_stander",
     "short_name": "website_stander",
-    "start_url": "https://abdoonin.github.io/web/",
+    "start_url": "/web/"
+
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
